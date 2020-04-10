@@ -1,0 +1,11 @@
+.book-listing {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    height: 300px;
+    border-top: 2px solid #cfcfcf;
+}
+
+.book-listing__info {
+    text-align: center;
+}
